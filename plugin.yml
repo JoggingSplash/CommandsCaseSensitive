@@ -1,0 +1,6 @@
+name: CaseSensitiveCommands
+version: 1.0.0
+main: cisco\Main
+api: 5.0.0
+authors:
+  - JoggingSplash23
